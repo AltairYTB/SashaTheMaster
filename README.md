@@ -78,7 +78,7 @@
 <body>
   <div class="container">
     <h1>Sasha the Master 🎮</h1>
-    <p><strong>Petit streamer anglais</strong> sur <strong>Twitch</strong> et <strong>YouTube</strong>, Sasha the Master rassemble environ 110 followers fidèles.</p>
+    <p><strong>Petit streamer anglais</strong> sur <strong>Twitch</strong> et <strong>YouTube</strong>, Sasha the Master rassemble environ 130 followers fidèles.</p>
     <p>Il partage ses aventures gaming, ses moments fun, et interagit avec une communauté en pleine croissance. Sa vibe ? Chill, fun, et 100% authentique !</p>
 
     <div class="social-links">
